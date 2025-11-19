@@ -750,3 +750,22 @@ input.form-control {
 .gamelist-widget .list-game {
   margin-bottom: 20px;
 }
+.tip {
+            background: #e8f5e8;
+            padding: 15px;
+            border-left: 5px solid #4caf50;
+            margin: 15px 0;
+        }
+        .fact {
+            background: #fff3e0;
+            padding: 15px;
+            border-left: 5px solid #ff9800;
+            margin: 15px 0;
+        }
+section {
+            background: white;
+            margin: 30px 0;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }

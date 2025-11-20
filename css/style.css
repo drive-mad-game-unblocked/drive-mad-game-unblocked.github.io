@@ -751,7 +751,7 @@ input.form-control {
   margin-bottom: 20px;
 }
 .tip {
-            background: yellow;
+            background: light pink;
             padding: 15px;
             border-left: 5px solid #4caf50;
             margin: 15px 0;
